@@ -1,0 +1,36 @@
+Fuksit-sovellus (uusille opiskelijoille)
+- tietoa opiskelualoittain → infosivuja
+- opiskelijatapahtumia → kalenterinäkymä
+- palveluun rekisteröinti + sisäänkirjautuminen
+- ajankohtaista + tulevaa tapahtumatietoa
+- paikkatietoja
+- palvelu sekä uudelle opiskelijalle että hänen tuutorilleen (!!!)
+- käyttäjän toiveiden mukaisia tietoja yliopiston tapahtumatietovirroista
+- reaaliaikainen kaverin bongaus kampusalueella
+
+- oleellista:
+	- ideoi tarpeita uuden opiskelijan ja hänen tuutorinsa näkökulmasta
+
+- mobiililaite + isolle seinällä olevalle älytaululle (kosketus tai Kinect-käyttöön perustuva käyttöliittymä, internetyhteys mahdollinen)
+
+Mobiilisovelluksen ominaisuuksia:
+- tietoja ”juuri minulle” (asetukset: aseta pääaine)
+- oman sijainnin näyttäminen (asetukset: päälle / pois)
+- kalenteri
+- oma profiili
+- kartta (dynaamisesti päivittyvä sisältö)
+- vinkit lähellä olevista tuutoreista (karttanäkymä)
+- karttanäkymät ainakin kampusalueilta
+- kampusta sivuavat bussiyhteydet / polkupyöräreitit?
+- ideoita olemassa olevista viestisovelluksista / some-palveluista / turistioppaista?
+
+Iso näyttötaulu:
+- tunnistaa, kun joku lähestyy ruutua
+
+- Merkitse ideoidesi lähteet muistiin ja viittaa niihin asianmukaisesti harjoitustyöraportissa.
+
+
+- On siis tavoitteena luoda palvelu, joka tukee uutta opiskelijaa kampuksella. Palvelu auttaa häntä löytämään samanmielisiä kavereita ja paikkoja, kuten luentosalit tai mikroluokat, ja olemaan ajoissa paikalla. Sovellusta on voitava personoida tukemaan kaveripiirin kuten tuutoriryhmän satunnaisia tai aikataulutettuja tapaamisia. Voit myös halutessasi suunnata esim. geokätkeilyyn tai pelilliseen vuorovaikutukseen taustaskenaariossa luonnehditun tiedonhaun ja -jaon ohessa, jos koet, että se antaisi palvelulle lisäarvoa.
+
+
+

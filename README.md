@@ -1,6 +1,4 @@
-# 2. suunnitteluharjoitus (SH2)
-
-2. suunnitteluharjoitus Tampereen yliopiston Käyttöliittymien perusteet -kurssille. (c) 2017.
+# Suunnitteluharjoitus 2 (SH2)
 
 [2. suunnitteluharjoituksen tehtävänanto](https://github.com/areee/tiea1_sh2/blob/master/SH2_Fuksit.pdf)
 
